@@ -4,3 +4,4 @@
 - [앱 라이프 사이클](https://github.com/imashrimp/iOS_study_repo/issues/2)
 - [프로토콜](https://github.com/imashrimp/iOS_study_repo/issues/3)
 - [클로저](https://github.com/imashrimp/iOS_study_repo/issues/4)
+- [REST API](https://github.com/imashrimp/iOS_study_repo/issues/5)
