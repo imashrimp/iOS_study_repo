@@ -7,4 +7,4 @@
 - [REST API](https://github.com/imashrimp/iOS_study_repo/issues/5)
 - [Static & Singleton](https://github.com/imashrimp/iOS_study_repo/issues/6)
 - [옵셔널 언래핑](https://github.com/imashrimp/iOS_study_repo/issues/7)
-- [열거형(enumb)](https://github.com/imashrimp/iOS_study_repo/issues/8)
+- [열거형(enum)](https://github.com/imashrimp/iOS_study_repo/issues/8)
