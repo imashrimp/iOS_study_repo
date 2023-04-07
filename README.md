@@ -6,3 +6,4 @@
 - [클로저](https://github.com/imashrimp/iOS_study_repo/issues/4)
 - [REST API](https://github.com/imashrimp/iOS_study_repo/issues/5)
 - [Static & Singleton](https://github.com/imashrimp/iOS_study_repo/issues/6)
+- [옵셔널 언래핑](https://github.com/imashrimp/iOS_study_repo/issues/7)
