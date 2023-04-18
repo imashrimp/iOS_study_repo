@@ -9,6 +9,7 @@
 - [옵셔널 언래핑](https://github.com/imashrimp/iOS_study_repo/issues/7)
 - [열거형(enum)](https://github.com/imashrimp/iOS_study_repo/issues/8)
 - [delegate](https://github.com/imashrimp/iOS_study_repo/issues/11)
+- [UserDefaults](https://github.com/imashrimp/iOS_study_repo/issues/12)
 
 # 기타
 - [용어정리](https://github.com/imashrimp/iOS_study_repo/issues/9)
