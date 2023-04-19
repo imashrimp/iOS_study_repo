@@ -10,6 +10,6 @@
 - [열거형(enum)](https://github.com/imashrimp/iOS_study_repo/issues/8)
 - [delegate](https://github.com/imashrimp/iOS_study_repo/issues/11)
 - [UserDefaults](https://github.com/imashrimp/iOS_study_repo/issues/12)
-
+- [SnapKit 사용법](https://github.com/imashrimp/iOS_study_repo/issues/13)
 # 기타
 - [용어정리](https://github.com/imashrimp/iOS_study_repo/issues/9)
