@@ -6,11 +6,14 @@
 - [클로저](https://github.com/imashrimp/iOS_study_repo/issues/4)
 - [REST API](https://github.com/imashrimp/iOS_study_repo/issues/5)
 - [Static & Singleton](https://github.com/imashrimp/iOS_study_repo/issues/6)
-- [옵셔널 언래핑](https://github.com/imashrimp/iOS_study_repo/issues/7)
-- [열거형(enum)](https://github.com/imashrimp/iOS_study_repo/issues/8)
 - [delegate](https://github.com/imashrimp/iOS_study_repo/issues/11)
 - [UserDefaults](https://github.com/imashrimp/iOS_study_repo/issues/12)
 - [SnapKit 사용법](https://github.com/imashrimp/iOS_study_repo/issues/13)
+
+
+## 문법
+- [옵셔널 언래핑](https://github.com/imashrimp/iOS_study_repo/issues/7)
+- [열거형(enum)](https://github.com/imashrimp/iOS_study_repo/issues/8)
 - [튜플(Tuple)](https://github.com/imashrimp/iOS_study_repo/issues/14)
 - [기본 명명 규칙(컨벤션)](https://github.com/imashrimp/iOS_study_repo/issues/16)
 - [콘솔 로그](https://github.com/imashrimp/iOS_study_repo/issues/17)
@@ -19,7 +22,5 @@
 - [타입 별칭(Type Alias)](https://github.com/imashrimp/iOS_study_repo/issues/21)
 - [컬렉션형](https://github.com/imashrimp/iOS_study_repo/issues/22)
 - [연산자](https://github.com/imashrimp/iOS_study_repo/issues/23)
-
-
-# 기타
+## 기타
 - [용어정리](https://github.com/imashrimp/iOS_study_repo/issues/9)
