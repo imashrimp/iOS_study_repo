@@ -18,7 +18,7 @@
 - [데이터 타입](https://github.com/imashrimp/iOS_study_repo/issues/20)
 - [타입 별칭(Type Alias)](https://github.com/imashrimp/iOS_study_repo/issues/21)
 - [컬렉션형](https://github.com/imashrimp/iOS_study_repo/issues/22)
-
+- [연산자](https://github.com/imashrimp/iOS_study_repo/issues/23)
 
 
 # 기타
