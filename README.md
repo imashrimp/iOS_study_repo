@@ -22,5 +22,6 @@
 - [타입 별칭(Type Alias)](https://github.com/imashrimp/iOS_study_repo/issues/21)
 - [컬렉션형](https://github.com/imashrimp/iOS_study_repo/issues/22)
 - [연산자](https://github.com/imashrimp/iOS_study_repo/issues/23)
+- [반복문](https://github.com/imashrimp/iOS_study_repo/issues/24)
 ## 기타
 - [용어정리](https://github.com/imashrimp/iOS_study_repo/issues/9)
