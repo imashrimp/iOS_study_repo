@@ -2,8 +2,6 @@
 
 - [테이블 뷰](https://github.com/imashrimp/iOS_study_repo/issues/1)
 - [앱 라이프 사이클](https://github.com/imashrimp/iOS_study_repo/issues/2)
-- [프로토콜](https://github.com/imashrimp/iOS_study_repo/issues/3)
-- [클로저](https://github.com/imashrimp/iOS_study_repo/issues/4)
 - [REST API](https://github.com/imashrimp/iOS_study_repo/issues/5)
 - [Static & Singleton](https://github.com/imashrimp/iOS_study_repo/issues/6)
 - [delegate](https://github.com/imashrimp/iOS_study_repo/issues/11)
@@ -12,6 +10,8 @@
 
 
 ## 문법
+- [프로토콜](https://github.com/imashrimp/iOS_study_repo/issues/3)
+- [클로저](https://github.com/imashrimp/iOS_study_repo/issues/4)
 - [옵셔널 언래핑](https://github.com/imashrimp/iOS_study_repo/issues/7)
 - [열거형(enum)](https://github.com/imashrimp/iOS_study_repo/issues/8)
 - [튜플(Tuple)](https://github.com/imashrimp/iOS_study_repo/issues/14)
