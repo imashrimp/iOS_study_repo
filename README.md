@@ -24,5 +24,6 @@
 - [연산자](https://github.com/imashrimp/iOS_study_repo/issues/23)
 - [반복문](https://github.com/imashrimp/iOS_study_repo/issues/24)
 - [조건문](https://github.com/imashrimp/iOS_study_repo/issues/25)
+- [함수의 매개변수](https://github.com/imashrimp/iOS_study_repo/issues/26)
 ## 기타
 - [용어정리](https://github.com/imashrimp/iOS_study_repo/issues/9)
