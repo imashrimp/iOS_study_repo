@@ -23,5 +23,6 @@
 - [컬렉션형](https://github.com/imashrimp/iOS_study_repo/issues/22)
 - [연산자](https://github.com/imashrimp/iOS_study_repo/issues/23)
 - [반복문](https://github.com/imashrimp/iOS_study_repo/issues/24)
+- [조건문](https://github.com/imashrimp/iOS_study_repo/issues/25)
 ## 기타
 - [용어정리](https://github.com/imashrimp/iOS_study_repo/issues/9)
