@@ -12,7 +12,7 @@
 ## 문법
 - [프로토콜](https://github.com/imashrimp/iOS_study_repo/issues/3)
 - [클로저](https://github.com/imashrimp/iOS_study_repo/issues/4)
-- [옵셔널 언래핑](https://github.com/imashrimp/iOS_study_repo/issues/7)
+- [옵셔널](https://github.com/imashrimp/iOS_study_repo/issues/7)
 - [열거형(enum)](https://github.com/imashrimp/iOS_study_repo/issues/8)
 - [튜플(Tuple)](https://github.com/imashrimp/iOS_study_repo/issues/14)
 - [기본 명명 규칙(컨벤션)](https://github.com/imashrimp/iOS_study_repo/issues/16)
