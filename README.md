@@ -26,6 +26,7 @@
 - [조건문](https://github.com/imashrimp/iOS_study_repo/issues/25)
 - [함수의 매개변수](https://github.com/imashrimp/iOS_study_repo/issues/26)
 - [구조체와 클래스](https://github.com/imashrimp/iOS_study_repo/issues/28)
+- [프로퍼티와 메서드](https://github.com/imashrimp/iOS_study_repo/issues/29)
 ## 기타
 - [용어정리](https://github.com/imashrimp/iOS_study_repo/issues/9)
 - [버블 정렬](https://github.com/imashrimp/iOS_study_repo/issues/27)
