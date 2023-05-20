@@ -29,4 +29,4 @@
 - [프로퍼티와 메서드](https://github.com/imashrimp/iOS_study_repo/issues/29)
 ## 기타
 - [용어정리](https://github.com/imashrimp/iOS_study_repo/issues/9)
-- [버블 정렬](https://github.com/imashrimp/iOS_study_repo/issues/27)
+- [알고리즘](https://github.com/imashrimp/iOS_study_repo/issues/27)
