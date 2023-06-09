@@ -30,6 +30,7 @@
 
 ## RxSwift
 - [Observable & Observer](https://github.com/imashrimp/iOS_study_repo/issues/30)
+- [Disposable & Dispose Bag](https://github.com/imashrimp/iOS_study_repo/issues/31)
 ## 기타
 - [용어정리](https://github.com/imashrimp/iOS_study_repo/issues/9)
 - [알고리즘](https://github.com/imashrimp/iOS_study_repo/issues/27)
