@@ -8,6 +8,7 @@
 - [UserDefaults](https://github.com/imashrimp/iOS_study_repo/issues/12)
 - [PHPicker](https://github.com/imashrimp/iOS_study_repo/issues/34)
 - [SnapKit 사용법](https://github.com/imashrimp/iOS_study_repo/issues/13)
+- [Realm 사용법](https://github.com/imashrimp/iOS_study_repo/issues/33)
 
 
 ## 문법
