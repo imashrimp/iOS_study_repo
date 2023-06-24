@@ -6,6 +6,7 @@
 - [Static & Singleton](https://github.com/imashrimp/iOS_study_repo/issues/6)
 - [delegate](https://github.com/imashrimp/iOS_study_repo/issues/11)
 - [UserDefaults](https://github.com/imashrimp/iOS_study_repo/issues/12)
+- [PHPicker](https://github.com/imashrimp/iOS_study_repo/issues/34)
 - [SnapKit 사용법](https://github.com/imashrimp/iOS_study_repo/issues/13)
 
 
